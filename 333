@@ -1,0 +1,17 @@
+<mxfile>
+  <diagram name="Validación de Documentos">
+    <mxGraphModel dx="1200" dy="800">
+      <root>
+        <!-- Tema central -->
+        <mxCell id="main" value="Validación de Documentos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="400" y="40" width="160" height="80"/>
+        </mxCell>
+        <!-- 1. Introducción -->
+        <mxCell id="intro" value="1. Introducción" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="200" y="180" width="140" height="60"/>
+        </mxCell>
+        <!-- Más nodos... -->
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
