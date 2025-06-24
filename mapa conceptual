@@ -1,0 +1,110 @@
+<mxfile>
+  <diagram name="Validación de Documentos" id="XIDzJXWXlJg4ZQlzJ1B6">
+    <mxGraphModel dx="1200" dy="800">
+      <root>
+        <!-- Nodos principales -->
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        
+        <!-- Tema central -->
+        <mxCell id="main" value="Validación de Documentos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="400" y="40" width="160" height="80"/>
+        </mxCell>
+
+        <!-- 1. Introducción -->
+        <mxCell id="intro" value="1. Introducción" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="200" y="180" width="140" height="60"/>
+        </mxCell>
+        <mxCell id="intro1" value="Crisis del software" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="120" y="280" width="120" height="50"/>
+        </mxCell>
+        <mxCell id="intro2" value="Objetivos: Verificar procesos, Garantizar calidad" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="260" y="280" width="160" height="50"/>
+        </mxCell>
+
+        <!-- 2. Informe de Análisis -->
+        <mxCell id="informe" value="2. Informe de Análisis (Reporting)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="440" y="180" width="160" height="60"/>
+        </mxCell>
+        <mxCell id="info1" value="Listas de chequeo" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="400" y="280" width="120" height="50"/>
+        </mxCell>
+        <mxCell id="info2" value="Escalas de valoración" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="400" y="350" width="120" height="50"/>
+        </mxCell>
+
+        <!-- 8. Trazabilidad -->
+        <mxCell id="trazabilidad" value="8. Trazabilidad" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="700" y="180" width="140" height="60"/>
+        </mxCell>
+        <mxCell id="traz1" value="Matriz de trazabilidad" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="680" y="280" width="140" height="50"/>
+        </mxCell>
+        <mxCell id="traz2" value="Herramientas: Redmine/Trac" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="680" y="350" width="140" height="50"/>
+        </mxCell>
+
+        <!-- 7. Instrumentos de Medición -->
+        <mxCell id="instrumentos" value="7. Instrumentos de Medición" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="440" y="450" width="160" height="60"/>
+        </mxCell>
+        <mxCell id="inst1" value="Métricas técnicas" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="400" y="550" width="120" height="50"/>
+        </mxCell>
+
+        <!-- 5. Sistemas de Información -->
+        <mxCell id="sistemas" value="5. Sistemas de Información" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="700" y="450" width="160" height="60"/>
+        </mxCell>
+        <mxCell id="sis1" value="Procesamiento de datos" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="680" y="550" width="140" height="50"/>
+        </mxCell>
+
+        <!-- 3. Búsqueda de Información -->
+        <mxCell id="busqueda" value="3. Búsqueda de Información" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="200" y="450" width="160" height="60"/>
+        </mxCell>
+        <mxCell id="busq1" value="Datos confiables" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="120" y="550" width="120" height="50"/>
+        </mxCell>
+
+        <!-- 4. Fuentes de Información -->
+        <mxCell id="fuentes" value="4. Fuentes de Información" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="120" y="650" width="160" height="60"/>
+        </mxCell>
+        <mxCell id="fuente1" value="Primarias: Observación" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="40" y="750" width="120" height="50"/>
+        </mxCell>
+        <mxCell id="fuente2" value="Secundarias: Internet/Estudios" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="180" y="750" width="140" height="50"/>
+        </mxCell>
+
+        <!-- 6. Redacción de Informes -->
+        <mxCell id="informes" value="6. Redacción de Informes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="440" y="650" width="160" height="60"/>
+        </mxCell>
+        <mxCell id="inf1" value="Lenguaje claro" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="400" y="750" width="120" height="50"/>
+        </mxCell>
+
+        <!-- Conexiones -->
+        <mxCell id="c1" source="main" target="intro" style="edgeStyle=none;curved=1;endArrow=classic;strokeWidth=2;" parent="1" edge="1"/>
+        <mxCell id="c2" source="main" target="informe" style="edgeStyle=none;curved=1;endArrow=classic;strokeWidth=2;" parent="1" edge="1"/>
+        <mxCell id="c3" source="main" target="trazabilidad" style="edgeStyle=none;curved=1;endArrow=classic;strokeWidth=2;" parent="1" edge="1"/>
+        <mxCell id="c4" source="main" target="busqueda" style="edgeStyle=none;curved=1;endArrow=classic;strokeWidth=2;" parent="1" edge="1"/>
+        <mxCell id="c5" source="main" target="informes" style="edgeStyle=none;curved=1;endArrow=classic;strokeWidth=2;" parent="1" edge="1"/>
+        
+        <!-- Conexiones secundarias -->
+        <mxCell id="c6" source="informe" target="instrumentos" style="edgeStyle=none;endArrow=classic;dashed=1;strokeColor=#666666;" parent="1" edge="1"/>
+        <mxCell id="c7" source="trazabilidad" target="sistemas" style="edgeStyle=none;endArrow=classic;dashed=1;strokeColor=#666666;" parent="1" edge="1"/>
+        <mxCell id="c8" source="busqueda" target="fuentes" style="edgeStyle=none;endArrow=classic;dashed=1;strokeColor=#666666;" parent="1" edge="1"/>
+
+        <!-- Conexiones a subnodos -->
+        <mxCell id="c9" source="intro" target="intro1" style="edgeStyle=none;endArrow=none;strokeWidth=1;" parent="1" edge="1"/>
+        <mxCell id="c10" source="intro" target="intro2" style="edgeStyle=none;endArrow=none;strokeWidth=1;" parent="1" edge="1"/>
+        <mxCell id="c11" source="informe" target="info1" style="edgeStyle=none;endArrow=none;strokeWidth=1;" parent="1" edge="1"/>
+        <mxCell id="c12" source="informe" target="info2" style="edgeStyle=none;endArrow=none;strokeWidth=1;" parent="1" edge="1"/>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
